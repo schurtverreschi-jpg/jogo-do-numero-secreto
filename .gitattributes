@@ -1,0 +1,3 @@
+# Classificar os arquivos HTML e CSS como documentação para sumirem do gráfico
+*.html linguist-documentation
+*.css linguist-documentation
